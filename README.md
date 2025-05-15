@@ -6,4 +6,4 @@
 
 ## 🔤 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikyputraa&layout=compact&theme=default&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kikyputraa&layout=compact&theme=tokyonight&langs_count=10)
