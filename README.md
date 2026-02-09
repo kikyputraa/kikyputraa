@@ -20,15 +20,6 @@ I'm a passionate DevOps Engineer focused on automating infrastructure, streamlin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kikyputraa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikyputraa&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 - **LinkedIn:** [linkedin.com/in/kikyputra](https://linkedin.com/in/kikyputra)
 - **Email:** kikyputra@example.com
