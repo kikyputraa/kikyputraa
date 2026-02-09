@@ -22,11 +22,10 @@ I'm a passionate DevOps Engineer focused on automating infrastructure, streamlin
 
 ### 🤝 Let's Connect
 - **LinkedIn:** [linkedin.com/in/kikyputra](https://linkedin.com/in/kikyputra)
-- **Email:** kikyputra@example.com
+- **Email:** pramadhan087@gmail.com
 - **Location:** Indonesia 🇮🇩
 
 ---
 
 ### ⚡ Fun Fact
 - I spend 80% of my time trying to automate a task that takes 5 minutes to do manually.
-- My favorite command is `kubectl get pods -n logic-error`.
